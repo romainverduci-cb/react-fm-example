@@ -35,7 +35,7 @@ export const useFeatureFlagContext = () => useContext(FeatureFlagContext)
  * rox properties work correctly.
  */
 export const FeatureFlagProvider = ({ children }: PropsWithChildren) => {
-  const sdkKey = '17c1651d-5d42-4fa2-b21e-833e94dd84fc'
+  const sdkKey = '2edf11e4-d803-47b7-878f-dc2e71d9ed7d'
   const [isFMReady, setIsFMReady] = useState(!sdkKey)
 
   if (!sdkKey) {
