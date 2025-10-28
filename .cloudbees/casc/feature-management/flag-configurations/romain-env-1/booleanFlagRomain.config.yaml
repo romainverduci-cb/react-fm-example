@@ -27,4 +27,6 @@ conditions:
       - anyOf:
           - group:
               name: t
+          - group:
+              name: tg-1
     flagValue: false
