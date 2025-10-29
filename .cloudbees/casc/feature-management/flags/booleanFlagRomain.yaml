@@ -6,10 +6,8 @@ flag: booleanFlagRomain
 flagType: boolean
 description: ""
 labels:
-  - label1:teamA
-  - label4
-  - label3
   - label2
+  - label3
 
 availableValues:
   - "false"
