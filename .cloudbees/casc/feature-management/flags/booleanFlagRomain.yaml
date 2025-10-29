@@ -6,9 +6,8 @@ flag: booleanFlagRomain
 flagType: boolean
 description: ""
 labels:
-  - test
   - label4
-  - label2
+  - test
 
 availableValues:
   - "false"
