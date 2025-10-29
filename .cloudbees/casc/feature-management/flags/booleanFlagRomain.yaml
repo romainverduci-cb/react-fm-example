@@ -6,7 +6,6 @@ flag: booleanFlagRomain
 flagType: boolean
 description: ""
 labels:
-  - label1:teamA
   - label4
   - test
   - label2
